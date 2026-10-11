@@ -1,4 +1,5 @@
-import Card from './Props/Card';
+import Card from "./component/Card";
+
 
 function App() {
 
