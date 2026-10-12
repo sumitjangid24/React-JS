@@ -1,0 +1,20 @@
+* {
+  margin: 10px;
+  padding: 4px, 6px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+h3 {
+  margin-top: 10px;
+  font-size: 1.7rem;
+}
+i {
+  margin-top: 20px;
+  font-size: 1.2rem;
+}
+button {
+  font-size: 1.3rem;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: lightblue;
+}
